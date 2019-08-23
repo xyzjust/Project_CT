@@ -10,9 +10,7 @@ Crypto Data chart:
 https://coinmetrics.io/about/
 
 
-
-
-https://poloniex.com/public?command=returnChartData&currencyPair=USDT_{0}&start={1}&end={2}&period=1800
-
-valid period of :
+Crypto data
+https://poloniex.com/public?command=returnChartData&currencyPair=USDT_{0}&start=12312&end={2}&period=1800
+Valid period of 
 300, 900, 1800, 7200, 14400, 86400
