@@ -1,0 +1,9 @@
+On Mac
+
+(pip install numpy --user –U)
+if no pip3: (python3 -m pip)
+
+e.g. python3 -m pip install numpy
+
+rather than pip3 install numpy
+
