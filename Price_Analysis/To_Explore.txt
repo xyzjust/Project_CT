@@ -1,0 +1,11 @@
+calculate what is the drop decrease:
+
+given a timeframe, i.e. 4Hours
+
+out of all that has greater than x percentage increase, [x : 0.5, 1] %,
+
+what's the difference between that and the rolling average at 1,2,3 Hour.
+
+the use that difference, to identify buy points,
+
+then see how many of the buys points will be profitable
