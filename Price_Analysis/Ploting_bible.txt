@@ -1,0 +1,3 @@
+Resource for plotting:
+
+https://python-graph-gallery.com/
