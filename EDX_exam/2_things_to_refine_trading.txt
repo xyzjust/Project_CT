@@ -1,0 +1,9 @@
+in the environment where the volatility is small, the decision tree made was good enough, however, 2 things needs to be done:
+
+1) to reduce stop loss:
+- in the event where there is a small downward trend, the trade will be terminated 
+        -> linear regression can be used here
+
+2) to catch sharp drops:
+- sharp drops, even in the environment where the market is decrease, profit can be made, this is different to step downs, and mathematically, both can be differentiated by the difference between the points and straight line (root different squared)
+   -> simple over ride of decrease 10% in 10min, sell at 3%
