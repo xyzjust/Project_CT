@@ -1,0 +1,2 @@
+model_checkpoint_path: "BasicRNN_30min_LTCUSDT"
+all_model_checkpoint_paths: "BasicRNN_30min_LTCUSDT"
